@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Course project question 2
+Course project
